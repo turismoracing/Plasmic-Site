@@ -32,7 +32,6 @@
     { "source": "/product/modena-black-and-red-gaming-chair", "destination": "/collections/chairs", "permanent": true },
     { "source": "/products", "destination": "/", "permanent": true },
     { "source": "/cart", "destination": "/", "permanent": true },
-    { "source": "/sitemap", "destination": "/", "permanent": true },
     { "source": "/product/replacement-mouse-mat-for-autodromo-stazzione-infinity", "destination": "/accessories/mousepad", "permanent": true },
     { "source": "/product/dual-monitor-mount", "destination": "/accessories/monitor-mount", "permanent": true },
     { "source": "/product/single-monitor-mount", "destination": "/accessories/monitor-mount", "permanent": true },
