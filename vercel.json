@@ -51,6 +51,15 @@
     { "source": "/product/modena-black-and-pink-gaming-chair", "destination": "/collections/chairs", "permanent": true },
     { "source": "/product/replacement-led-lighting-for-gaming-desk", "destination": "/accessories/led-lighting", "permanent": true },
     { "source": "/product/blue-decagon-gaming-desk", "destination": "/collections/desks", "permanent": true },
-    { "source": "/product/red-decagon-gaming-desk", "destination": "/collections/desks", "permanent": true }
+    { "source": "/product/red-decagon-gaming-desk", "destination": "/collections/desks", "permanent": true },
+    { "source": "/sitemap-index.xml", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap.php", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap.txt", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap.xml.gz", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap/", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap/sitemap.xml", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemapindex.xml", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap/index.xml", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap1.xml", "destination": "/sitemap.xml", "permanent": true },
   ]
 }
