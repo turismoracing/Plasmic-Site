@@ -60,6 +60,6 @@
     { "source": "/sitemap/sitemap.xml", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemapindex.xml", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemap/index.xml", "destination": "/sitemap.xml", "permanent": true },
-    { "source": "/sitemap1.xml", "destination": "/sitemap.xml", "permanent": true },
+    { "source": "/sitemap1.xml", "destination": "/sitemap.xml", "permanent": true }
   ]
 }
