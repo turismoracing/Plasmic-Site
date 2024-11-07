@@ -57,6 +57,7 @@
     { "source": "/products/infinity/max", "destination": "/products/infinity/MAX", "permanent": true },
     { "source": "/products/infinity/infinity", "destination": "/products/infinity/MAX", "permanent": true },
     { "source": "/products/infinity/[variant]", "destination": "/products/infinity/MAX", "permanent": true },
+    { "source": "/products/infinity", "destination": "/products/infinity/MAX", "permanent": true },
     { "source": "/sitemap-index.xml", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemap.php", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemap.txt", "destination": "/sitemap.xml", "permanent": true },
