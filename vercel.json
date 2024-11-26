@@ -61,6 +61,7 @@
     { "source": "/products/infinity/MAX", "destination": "/products/infinity/72-inches", "permanent": true },
     { "source": "/products/infinity/Infinity", "destination": "/products/infinity/72-inches", "permanent": true },
     { "source": "/products/autodromo", "destination": "/products/autodromo/green", "permanent": true },
+    { "source": "/products/stazzione", "destination": "/products/stazzione/purple", "permanent": true },
     { "source": "/products/evoluzione-icon", "destination": "/products/evoluzione-icon/blackBlue", "permanent": true },
     { "source": "/products/evoluzione-vaporweave", "destination": "/products/evoluzione-vaporweave/ivoryGrey", "permanent": true },
     { "source": "/products/evoluzione-xl", "destination": "/products/evoluzione-xl/blackBlue", "permanent": true },
