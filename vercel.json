@@ -71,6 +71,7 @@
     { "source": "/accessories/chair-floor-mat", "destination": "/accessories/chair-floor-mat/black", "permanent": true },
     { "source": "/accessories/headphone-hanger", "destination": "/accessories/headphone-hanger/silver", "permanent": true },
     { "source": "/accessories/led-lighting", "destination": "/accessories/led-lighting/green", "permanent": true },
+    { "source": "/discount/1JM6J5QDVH2N?redirect=/collections/evoluzione", "destination": "/collections/chairs", "permanent": true },
     { "source": "/sitemap-index.xml", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemap.php", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemap.txt", "destination": "/sitemap.xml", "permanent": true },
