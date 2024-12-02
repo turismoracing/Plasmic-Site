@@ -75,7 +75,7 @@
     { "source": "/collections/gaming-chairs", "destination": "/collections/chairs", "permanent": true },
     { "source": "/collections/gaming-desks", "destination": "/collections/desks", "permanent": true },
     { "source": "/collections/stanza-gaming-recliners", "destination": "/collections/recliners", "permanent": true },
-    { "source": "/discount/1JM6J5QDVH2N?redirect=/collections/evoluzione", "destination": "/collections/chairs", "permanent": true },
+    { "source": "/discount/1JM6J5QDVH2N", "destination": "/collections/chairs", "permanent": true },
     { "source": "/sitemap-index.xml", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemap.php", "destination": "/sitemap.xml", "permanent": true },
     { "source": "/sitemap.txt", "destination": "/sitemap.xml", "permanent": true },
