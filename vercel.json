@@ -10,6 +10,7 @@
     { "source": "/product/evoluzione-icon-black-blue-gaming-chair", "destination": "/collections/chairs", "permanent": true },
     { "source": "/product/infinity-2023-64-inch-gaming-desk-sale", "destination": "/products/infinity/64-inches", "permanent": true },
     { "source": "/product/infinity-2023-64-inch-gaming-desk", "destination": "/products/infinity/64-inches", "permanent": true },
+    { "source": "/products/infinity-2023-64-inch-gaming-desk", "destination": "/products/infinity/64-inches", "permanent": true },
     { "source": "/product/infinity-2024-64-inch-gaming-desk", "destination": "/products/infinity/64-inches", "permanent": true },
     { "source": "/product/evoluzione-ivory-grey-gaming-chair", "destination": "/collections/chairs", "permanent": true },
     { "source": "/product/evoluzione-slate-grey-gaming-chair", "destination": "/collections/chairs", "permanent": true },
